@@ -1,0 +1,1 @@
+insert into my_db.security set name = 'sidorov', year = 1986, password = '$12$NMeAo9x0KBmWVy.QOPtLKObZzqEGtbYv4Bb8C0UV.vVg97jPQxKNW', role = 'ROLE_ADMIN';
